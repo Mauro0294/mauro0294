@@ -22,7 +22,8 @@
 [![GitHub Mauro Scheltens](https://img.shields.io/github/followers/mauro0294?label=follow&style=social)](https://github.com/mauro0294)
 
 <div align="center">
-### Take a quick look at my repositories ❤️!
+
+## Take a quick look at my repositories ❤️!
 [![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauro0294&theme=tokyonight)](https://github.com/mauro0294)
 
 </div>
