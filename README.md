@@ -1,3 +1,4 @@
+<div align="center">
 ## Hey there! I'm Mauro Scheltens 👋
 
 <a href="https://www.linkedin.com/in/mauro-scheltens-39a29721a/">
@@ -20,8 +21,6 @@
 
 [![Linkedin: Mauro Scheltens](https://img.shields.io/badge/-Mauro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-scheltens-39a29721a/)](https://www.linkedin.com/in/mauro-scheltens-39a29721a/)
 [![GitHub Mauro Scheltens](https://img.shields.io/github/followers/mauro0294?label=follow&style=social)](https://github.com/mauro0294)
-
-<div align="center">
 
 ### Take a quick look at my repositories ❤️!
 [![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauro0294&theme=tokyonight)](https://github.com/mauro0294)
