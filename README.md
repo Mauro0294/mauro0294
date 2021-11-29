@@ -1,4 +1,4 @@
-## Hola, I'm Mauro Scheltens 👋
+## Hey there! I'm Mauro Scheltens 👋
 
 <a href="https://www.linkedin.com/in/mauro-scheltens-39a29721a/">
   <img align="left" alt="Mauro's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -11,7 +11,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on [School](bit-academy.nl).
+- 🔭 I’m currently working on [School](https://www.bit-academy.nl).
 - 🌱 I’m currently learning more about TailwindCSS.
 - 💬 Ask me about Front-End or any web development-related stuff.
 - 📫 How to reach me: [Linkedin - Mauro Scheltens](https://www.linkedin.com/in/mauro-scheltens-39a29721a/)
@@ -20,10 +20,9 @@
 - 
 [![Linkedin: Mauro Scheltens](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-scheltens-39a29721a/)](https://www.linkedin.com/in/imthepk/)
 [![GitHub Mauro Scheltens](https://img.shields.io/github/followers/mauro0294?label=follow&style=social)](https://github.com/mauro0294)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Take a quick look at my repositories ❤️!
 
 </div>
