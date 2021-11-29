@@ -26,7 +26,7 @@
 ## Take a quick look at my repositories ❤️!
 [![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauro0294&theme=tokyonight)](https://github.com/mauro0294)
 
-<a href="https://github.com/mauro0294
+<a href="https://github.com/mauro0294">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauro0294&theme=light&hide_langs_below=1" />
 </a>
                                                                                                                                   
