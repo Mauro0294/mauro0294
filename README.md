@@ -23,6 +23,6 @@
 
 <div align="center">
 ### Take a quick look at my repositories ❤️!
-[![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauro0294&theme=tokyonight)](https://github.com/mauro0294)
+![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauro0294&theme=tokyonight)](https://github.com/mauro0294)
 
 </div>
