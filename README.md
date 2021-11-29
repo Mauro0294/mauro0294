@@ -24,6 +24,6 @@
 <div align="center">
 
 ### Take a quick look at my repositories ❤️!
-[![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauro0294)](https://github.com/anuraghazra/github-readme-stats)
+[![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauro0294)](https://github.com/mauro0294)
 
 </div>
