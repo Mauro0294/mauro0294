@@ -25,5 +25,5 @@
 
 ## Take a quick look at my repositories ❤️!
 [![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauro0294&theme=tokyonight)](https://github.com/mauro0294)
-
+<img src="https://komarev.com/ghpvc/?username=Mauro0294&label=Views&color=brightgreen&style=flat" alt="mauro0294" /> </p>
 </div>
