@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on [Internship](https://bravoure.nl/en/).
-- 🌱 I’m currently learning more about [React](https://reactjs.org/).
+- 🌱 I’m currently learning more about [React](https://reactjs.org/){:target="_blank"}.
 - 💬 Ask me about Front-End or any web development-related stuff.
 - 📫 How to reach me: [Linkedin - Mauro Scheltens](https://www.linkedin.com/in/mauro-scheltens-39a29721a/)
 - 😄 Gender: Male
