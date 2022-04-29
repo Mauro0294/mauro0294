@@ -16,7 +16,7 @@
 - 💬 Ask me about Front-End or any web development-related stuff.
 - 📫 How to reach me: [Linkedin - Mauro Scheltens](https://www.linkedin.com/in/mauro-scheltens-39a29721a/)
 - 😄 Gender: Male
-- ⚡ Fun fact: I started coding when I was twelve years old!
+- ⚡ Fun fact: I started coding when I was fourteen years old!
 
 [![Linkedin: Mauro Scheltens](https://img.shields.io/badge/-Mauro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-scheltens-39a29721a/)](https://www.linkedin.com/in/mauro-scheltens-39a29721a/)
 [![GitHub Mauro Scheltens](https://img.shields.io/github/followers/mauro0294?label=follow&style=social)](https://github.com/mauro0294)
