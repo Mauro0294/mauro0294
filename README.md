@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on [School](https://bit-academy.nl).
-- 🌱 I’m currently learning more about [Laravel](https://laravel.com/).
+- 🌱 I’m currently learning more about [TypeScript](https://www.typescriptlang.org/).
 - 💬 Ask me about Front-End or any web development-related stuff.
 - 📫 How to reach me: [Linkedin - Mauro Scheltens](https://www.linkedin.com/in/mauro-scheltens-39a29721a/)
 - 😄 Gender: Male
